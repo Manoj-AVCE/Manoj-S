@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manoj 
+# 👋 Hi, I'm Manoj S
 
 ### Data Science & AI Enthusiast | Machine Learning | Python | Data Analytics
 
