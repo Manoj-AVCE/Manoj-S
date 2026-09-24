@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manoj Sanmukanathan
+# 👋 Hi, I'm Manoj 
 
 ### Data Science & AI Enthusiast | Machine Learning | Python | Data Analytics
 
