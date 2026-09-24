@@ -86,16 +86,14 @@ To start my career in **Data Science, Data Analytics, or Machine Learning** and 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn Profile](#)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🐙 GitHub: [Your GitHub Profile](#)
+* 💼 LinkedIn: linkedin.com/in/manoj-sanmukanathan-229454427
+* 📧 Email: manojsanmukanathan@gmail.com
+* 🐙 GitHub: https://github.com/Manoj-AVCE/Manoj-S/blob/main/README.md
 
 ---
 
-## 📊 GitHub Stats
 
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
 
 
